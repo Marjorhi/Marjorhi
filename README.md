@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 - Live in **Tugos, Sorsogon City**
 
+- Born on **May 24, 2002**
+
 - Currently studying **Information Technology** on [***Sorsogon State University - Bulan Campus***](https://sorsu.edu.ph/)
 
 - Currently learning **Java** , **Javascript** & **Python**
