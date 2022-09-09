@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - Currently studying **Information Technology** on [***Sorsogon State University - Bulan Campus***](https://sorsu.edu.ph/)
 
-- Currently learning **Java** , **Javascript** & **Python**
+- Currently learning **Javascript** , **Java** & **Python**
 
 - Understand Bikol, Tagalog & English
 
