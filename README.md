@@ -3,6 +3,8 @@
 -->
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&width=435&lines=Yo!+I'm++Marjorie+Flores+Jetajobe;Information+Technology+Student;Aspiring+Front-End+Developer" alt="Typing SVG" /></a></p>
 
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marjorhi&layout=compact)](https://github.com/Marjorhi)
+
 - [![HitCount](https://hits.dwyl.com/Marjorhi/Marjorhi.svg?style=flat-square)](http://hits.dwyl.com/Marjorhi/Marjorhi)
 
 ### Skills
@@ -19,4 +21,5 @@
 &emsp;
 </p>
 <p align="left"><sub> “Your future is created by what you do today.” </sub></p>
+
 
