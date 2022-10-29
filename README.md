@@ -4,6 +4,8 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&width=435&lines=Yo!+I'm++Marjorie+Flores+Jetajobe;Information+Technology+Student;Aspiring+Front-End+Developer" alt="Typing SVG" /></a></p>
 
 [![HitCount](https://hits.dwyl.com/Marjorhi/Marjorhi.svg?style=flat-square)](http://hits.dwyl.com/Marjorhi/Marjorhi)
+
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marjorhi&theme=dracula)
 
 ### Skills
