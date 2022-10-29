@@ -7,7 +7,9 @@
 
 ### Skills
 <p align="left">
-	<a href="https://skills.thijs.gg/icons?i=cpp,js,nodejs,py,java&theme=dark)(https://skills.thijs.gg)"></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,js,nodejs,py,java&theme=dark" />
+  </a>
 </p>
 
 ### Software & Tools
