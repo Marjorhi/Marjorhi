@@ -18,7 +18,9 @@
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
 &emsp;
 </p>
+
 ### Let's Connect
+
 <p align="center">
 	<a href="https://github.com/Marjorhi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://web.facebook.com/mjjetajobe24"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
