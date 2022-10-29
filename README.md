@@ -4,6 +4,7 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&width=435&lines=Yo!+I'm++Marjorie+Flores+Jetajobe;Information+Technology+Student;Aspiring+Front-End+Developer" alt="Typing SVG" /></a></p>
 
 - [![HitCount](https://hits.dwyl.com/Marjorhi/Marjorhi.svg?style=flat-square)](http://hits.dwyl.com/Marjorhi/Marjorhi)
+- [![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marjorhi&theme=radical&hide_border=true)
 
 ### Skills
 <p align="left">
@@ -18,8 +19,6 @@
 	<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
 	<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
 </p>
-
-[Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marjorhi&theme=radical&hide_border=true)
 
 ### Connect with Me
 <p align="left">
