@@ -19,7 +19,7 @@
 	<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
 </p>
 
-[![ Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marjorhi&theme=radical&hide_border=true)
+[Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marjorhi&theme=radical&hide_border=true)
 
 ### Connect with Me
 <p align="left">
