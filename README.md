@@ -12,7 +12,7 @@
 <br/>
 Here are some ideas to get you started:  
 
-- [**Marjorie Flores Jetajobe**] (https://web.facebook.com/mjjetajobe24)
+- [****Marjorie Flores Jetajobe****](https://web.facebook.com/mjjetajobe24)
 
 - Lives in **Tugos, Sorsogon City**
 
