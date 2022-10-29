@@ -8,7 +8,7 @@
 <p align="center">
 <sub> *“Your future is created by what you do today.”* </sub>
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=4000&pause=1000&color=62F7EB&background=44D5FF00&width=500&lines=Information+Technology+Student;Aspiring+Front-End+Developer;Learner" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=4000&pause=1000&color=62F7EB&background=44D5FF00&width=500&lines=Information+Technology+Student;Aspiring+Front-End+Developer;Learner" alt="Typing SVG"></a></p>
 
 - [![HitCount](https://hits.dwyl.com/Marjorhi/Marjorhi.svg?style=flat-square)](http://hits.dwyl.com/Marjorhi/Marjorhi)
 
