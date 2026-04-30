@@ -1,7 +1,7 @@
 <!--
 **Marjorhi/Marjorhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&width=435&lines=Yo!+I'm++Marjorie+Flores+Jetajobe;IWeb+Developer" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&width=435&lines=Yo!+I'm++Marjorie+Flores+Jetajobe;A+Web+Developer" alt="Typing SVG" /></a></p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Marjorhi&label=Profile%20views&color=0e75b6&style=flat)
 
