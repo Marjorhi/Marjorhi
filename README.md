@@ -19,7 +19,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,sass,cpp,js,nodejs,py,java,rust&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=scss,cpp,c,js,nodejs,py,java,rust,vite,vue,laravel&theme=dark" />
   </a>
 </p>
 
