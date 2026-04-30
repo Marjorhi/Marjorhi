@@ -5,8 +5,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Marjorhi&label=Profile%20views&color=0e75b6&style=flat)
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Marjorhi&theme=dracula)
+![Marjorhi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marjorhi&theme=dracula&hide_border=false)
 
 <p align="left">
   <a href="https://skillicons.dev">
